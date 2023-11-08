@@ -1,3 +1,9 @@
+/*
+ * Written by: Dan Jandel C. De Ramos
+ * Polytechnic University of the Philippines Biñan
+ * Bachelor of Science in Computer Engineering 2-1
+ */
+
 import java.util.Scanner;
 
 public class Total_Resistance_Calculator {
