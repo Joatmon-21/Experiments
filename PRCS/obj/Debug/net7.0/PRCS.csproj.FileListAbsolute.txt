@@ -1,0 +1,14 @@
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\bin\Debug\net7.0\PRCS.exe
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\bin\Debug\net7.0\PRCS.deps.json
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\bin\Debug\net7.0\PRCS.runtimeconfig.json
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\bin\Debug\net7.0\PRCS.dll
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\bin\Debug\net7.0\PRCS.pdb
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\obj\Debug\net7.0\PRCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\obj\Debug\net7.0\PRCS.AssemblyInfoInputs.cache
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\obj\Debug\net7.0\PRCS.AssemblyInfo.cs
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\obj\Debug\net7.0\PRCS.csproj.CoreCompileInputs.cache
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\obj\Debug\net7.0\PRCS.dll
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\obj\Debug\net7.0\refint\PRCS.dll
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\obj\Debug\net7.0\PRCS.pdb
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\obj\Debug\net7.0\PRCS.genruntimeconfig.cache
+C:\Users\508un\Documents\Programming Projects\Experiments\PRCS\obj\Debug\net7.0\ref\PRCS.dll
